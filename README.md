@@ -1,5 +1,6 @@
-![Ale](https://user-images.githubusercontent.com/101484135/182728837-374d0995-0962-4a9d-9123-403fe709687f.jpg)
-![alejacode](https://user-images.githubusercontent.com/101484135/182728845-42327942-8d56-4800-9f3b-4ca4a78e81b8.jpg)
+![Ale](https://user-images.githubusercontent.com/101484135/182728954-a5cb65ed-5253-4bde-811c-c54d729ba1cd.jpg)
+![alejacode](https://user-images.githubusercontent.com/101484135/182728968-dc80d87e-54fc-45fa-86f0-b3d735e0058e.jpg)
+
 
 
 ### Hi there 👋
