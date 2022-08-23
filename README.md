@@ -28,7 +28,6 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https:https://github.com/Alejandra-Lopez17)](https://github.com/Alejandra-Lopez17)
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Alejandra Lopez_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p>
