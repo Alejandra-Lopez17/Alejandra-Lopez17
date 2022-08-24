@@ -15,12 +15,16 @@
    Gitlab
   </a></code>
   
-  <a href=https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA/about>
+  
+ <a href=https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA/about>
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Alejandra Lopez' YouTube Channel" height="30" width="30">
   </a>
   
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=alejandraprogramadora22@gmail.com)](alejandraprogramadora22@gmail.com)
+  ALEJANDRA LOPEZ<br>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=alejandraprogramadora22@gmail.com)](alejandraprogramadora22@gmail.com)
 </h5>
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Alejandra-Lopez17)](https://github.com/Alejandra-Lopez17)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https:https://github.com/Alejandra-Lopez17)](https://github.com/Alejandra-Lopez17)
