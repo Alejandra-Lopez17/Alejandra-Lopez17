@@ -1,8 +1,16 @@
 <img src="https://media1.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e472nyu3s9cx6xckr6munwumfxdql905s8qthg94d94&rid=giphy.gif&ct=g" width="100">
+<a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  </a>
 
-
-<h2 align="center">BIENVENIDOS ME ALEGRA MUCHO TENERLOS POR AQUI SOY <br />ALEJANDRA LOPEZ 🇨🇴</br> <a href="https://"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>  </h2>
+<h2 align="center">BIENVENIDOS ME ALEGRA MUCHO TENERLOS POR AQUI SOY <br />ALEJANDRA LOPEZ 🇨🇴<a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://www.instagram.com/alejandra_lopez1707/">
+    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
+  </a> 
+  </a></br> <a href="https://"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>  </h2>  
 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
@@ -11,6 +19,7 @@
   ALEJANDRA LOPEZ <br>
   <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
 </p>
+
 
 <p align="">
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="70">
