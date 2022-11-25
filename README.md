@@ -1,24 +1,22 @@
-<img src="https://media1.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e472nyu3s9cx6xckr6munwumfxdql905s8qthg94d94&rid=giphy.gif&ct=g" width="100">
-<a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+## Hola 👋🏻 Soy Alejandra Lopez 🇨🇴
+<img src="https://media1.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e472nyu3s9cx6xckr6munwumfxdql905s8qthg94d94&rid=giphy.gif&ct=g" width="100"> <a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
-
-<h2 align="center">BIENVENIDOS ME ALEGRA MUCHO TENERLOS POR AQUI SOY <br />ALEJANDRA LOPEZ 🇨🇴<a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
+  
+  <a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
     <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
   </a>
    <a href="https://www.instagram.com/alejandra_lopez1707/">
     <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
-  </a> 
-  </a></br> <a href="https://"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>  </h2>  
-
-
+    
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+---
+ 
+Autodidacta de Desarrollo Web enfocado en programación Frontend. Busco crear proyectos que brinden la mejor experiencia para el usuario.  
+  
+Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.
 
-<p align="center"> 
-  ALEJANDRA LOPEZ <br>
-  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
-</p>
+---
+
 
 
 <p align="">
