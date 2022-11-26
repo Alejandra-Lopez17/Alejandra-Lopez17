@@ -17,7 +17,7 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 
 ---
 
-
+![cover](https://github.com/Alejandra-Lopez17/Mi-portafolio/blob/Alejandra-Lopez17/1669434720481.jpeg)
 
 <p align="">
 <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="70">
