@@ -13,7 +13,7 @@
  
 Autodidacta de Desarrollo Web enfocado en programación Front-End. Busco crear proyectos que brinden la mejor experiencia para el usuario.  
   
-Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.
+Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos.
 
 ---
 
