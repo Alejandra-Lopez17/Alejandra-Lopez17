@@ -1,5 +1,5 @@
 ## Hola 👋🏻 Soy Alejandra Lopez 🇨🇴
-<img src="https://media1.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif?cid=ecf05e472nyu3s9cx6xckr6munwumfxdql905s8qthg94d94&rid=giphy.gif&ct=g" width="100"> <a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+ <a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
   
   <a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
