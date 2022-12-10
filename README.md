@@ -38,4 +38,4 @@ Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, c
 
 <img src="https://media3.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif?cid=ecf05e47vc1sasff4c1cj087sgpdknoops21h4rpn31y7mt7&rid=giphy.gif&ct=g" width="70">
 
-
+![cover](https://github.com/Alejandra-Lopez17/Alejandra-Lopez/blob/Alejandra-Lopez17/Alejandra-Lopez/Alejandra-Lopez/contributions.svg)
