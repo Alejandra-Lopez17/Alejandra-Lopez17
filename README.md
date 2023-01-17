@@ -1,5 +1,4 @@
-## Hola 👋🏻 Soy Alejandra Lopez 🇨🇴
- <a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+<a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
   
   <a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
@@ -11,31 +10,58 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ---
  
-Autodidacta de Desarrollo Web enfocado en programación Front-End. Busco crear proyectos que brinden la mejor experiencia para el usuario.  
+ <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, soy Alejandra Lopez 🇨🇴</h1>
+  <h3 align="center">| Desarrolladora Front-End | </h3>
+  <p align="center">
   
-Soy apasionada, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactiva, me gusta retarme y siempre estoy dispuesta a adquirir nuevos conocimientos.
+  </p>
+  </p>
+  <p align="center">
+    <em>
+      Autodidacta de <b>Desarrollo Web</b> orientado a <b>Front-End</b>. <br>
+      Constantemente <b>aprendiendo</b> y siempre <b>entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">&nbsp,<br> <b>obsesionada</b>
+      con <b>auto-superarme</b>.
+    </em> 
+    <br>
+  </p>
+  
+  
+  **Hablando de cosas personales...**
+  
+  ✔ Tecnóloga en **Coordinación de escuelas de música.**<br>
+  ✔ Consultame lo que necesites 😁.<br>
+   
+   
 
----
+   ***Lenguajes y herramientas que conozco...***
+  <p align="left">
+ 
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+ <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478jay0edoxkoa95l642jfmv161i51ju1ttled8vfa&rid=giphy.gif&ct=g" width="40">
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>  </a> 
+<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://sequelize.org/" target="_blank"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="postgresql" width="40" height="40"/> </a>
+ </p>
+ <hr>
+ 
 
-![cover](https://github.com/Alejandra-Lopez17/Alejandra/blob/Alejandra-Lopez17/1669434720481.jpeg)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="Alejandra-Lopez" /> </p>
 
-<p align="">
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="70">
+ 
+ 
 
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" width="70">
+  
 
-<img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-58-36-68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f736f757263652e676966.gif" width="70">
 
-<img src="http://www.canalgif.net/Gifs-animados/Informatica/Java/Imagen-animada-Java-02.gif" width="70">
-<br><br/>
-<p align="">
-<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478jay0edoxkoa95l642jfmv161i51ju1ttled8vfa&rid=giphy.gif&ct=g" width="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="70">
-
-<br><br/>
-<p align="">
-<img src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47aw1mbf9djq45eh7pxuylyiqx0okj0vznzrkvmhfd&rid=giphy.gif&ct=g" width="70">
-
-<img src="https://media3.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif?cid=ecf05e47vc1sasff4c1cj087sgpdknoops21h4rpn31y7mt7&rid=giphy.gif&ct=g" width="70">
-
-![cover](https://github.com/Alejandra-Lopez17/Alejandra-Lopez/blob/Alejandra-Lopez17/Alejandra-Lopez/Alejandra-Lopez/contributions.svg)
