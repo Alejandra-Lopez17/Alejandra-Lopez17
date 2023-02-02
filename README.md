@@ -11,7 +11,7 @@
 ---
  
  <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, soy Alejandra Lopez 🇨🇴</h1>
-  <h3 align="center">| Desarrolladora Front-End | </h3>
+  <h3 align="center">| Desarrolladora Front-End Developer | </h3>
   <p align="center">
   
   </p>
