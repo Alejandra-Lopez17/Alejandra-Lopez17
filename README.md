@@ -56,8 +56,7 @@
  </p>
  <hr>
  
-<p align=""> <a href="" target="_blank"> <img src="https://github.com/Alejandra-Lopez17/Mi-portafolio/blob/Alejandra-Lopez17/1669434720481.jpeg" alt="" width="200" height="200"/> </a>
-  
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="Alejandra-Lopez" /> </p>
 
  
