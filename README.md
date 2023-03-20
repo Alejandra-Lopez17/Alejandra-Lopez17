@@ -1,12 +1,3 @@
-<a href="https://www.youtube.com/channel/UCNFndCKB8oU9EZuL5IhWZSA"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/alejandra-lopez-126407245/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Linkedin.svg" />
-  </a>
-   <a href="https://www.instagram.com/alejandra_lopez1707/">
-    <img align="left" alt="Hargun | Instagram" width="24px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" />
-    
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ---
  
