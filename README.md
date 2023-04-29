@@ -11,7 +11,7 @@ import { Ingenieriadesoftware } from '@alejandralopez';
 
 class Bio extends Ingenieriadesoftware {
   name     = 'Alejandra Lopez';
-  title    = 'Estudiante en Ingenieria de Software';
+  title    = 'Estudiante en Ingeniería de Software';
 }
 
 ```
