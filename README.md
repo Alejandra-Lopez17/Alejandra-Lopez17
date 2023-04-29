@@ -1,26 +1,22 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ---
  
- <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, soy Alejandra Lopez 🇨🇴</h1>
-  <h3 align="center">| Desarrolladora Front-End Developer | </h3>
+<h1 align="center"> <img="" width="" height=""> 🇨🇴/🇺🇸</h1>
+  <h3 align="center"></h3>
   <p align="center">
-  
-  </p>
-  </p>
-  <p align="center">
-    <em>
-       <b>Desarrolladora Web Full Stack</b> orientada a <b>Front-End</b>. <br>
-      Constantemente <b>aprendiendo</b> y siempre <b>entusiasta</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px">&nbsp,<br> <b>obsesionada</b>
-      con <b>auto-superarme</b>.
-    </em> 
-    <br>
-  </p>
-  
-  
-  **Hablando de cosas personales...**
-  
-  ✔ Tecnóloga en **Coordinación de escuelas de música.**<br>
-  ✔ Consultame lo que necesites 😁.<br>
+
+ 
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Alejandra Lopez';
+  title    = 'Estudiante en Ingenieria de Software';
+}
+
+```
+
+
    
    
 
