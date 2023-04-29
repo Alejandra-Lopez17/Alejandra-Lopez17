@@ -7,9 +7,9 @@
 
  
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import { Ingenieriadesoftware } from '@alejandralopez';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends Ingenieriadesoftware {
   name     = 'Alejandra Lopez';
   title    = 'Estudiante en Ingenieria de Software';
 }
