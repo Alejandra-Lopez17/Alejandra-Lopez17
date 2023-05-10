@@ -10,9 +10,9 @@
 import { Ingenieriadesoftware } from '@alejandralopez';
 
 class Bio extends Ingenieriadesoftware {
-  name     = 'Alejandra Lopez';
-  title    =  Bachelor's degree, Computer Software Engineering';
-  title2   = 'Tecnóloga en Coordinación de escuelas de música';
+  name     = "Alejandra Lopez";
+  title    = "Bachelor's degree, Computer Software Engineering";
+  title2   = "Tecnóloga en Coordinación de escuelas de música";
 }
 
 ```
