@@ -7,19 +7,22 @@
 
  
 ```py
- class Ingenieriadesoftware:
+class Ingenieriadesoftware:
     pass
 
 class Bio(Ingenieriadesoftware):
     def __init__(self):
         self.name = "Alejandra Lopez"
+        self.country = "Colombia"
         self.title2 = "Bachelor's degree in Computer Software Engineering"
         self.title1 = "Technologist in Coordination of Music Schools"
 
 bio_obj = Bio()
 print(bio_obj.name)
+print(bio_obj.country)
 print(bio_obj.title1)
 print(bio_obj.title2)
+
 ```
 
 
