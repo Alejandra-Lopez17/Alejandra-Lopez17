@@ -6,15 +6,20 @@
   <p align="center">
 
  
-```js
-import { Ingenieriadesoftware } from '@alejandralopez';
+```py
+ class Ingenieriadesoftware:
+    pass
 
-class Bio extends Ingenieriadesoftware {
-  name     = "Alejandra Lopez";
-  title    = "Bachelor's degree, Computer Software Engineering";
-  title2   = "Technologist in Coordination of music schools";
-}
+class Bio(Ingenieriadesoftware):
+    def __init__(self):
+        self.name = "Alejandra Lopez"
+        self.title2 = "Bachelor's degree in Computer Software Engineering"
+        self.title1 = "Technologist in Coordination of Music Schools"
 
+bio_obj = Bio()
+print(bio_obj.name)
+print(bio_obj.title1)
+print(bio_obj.title2)
 ```
 
 
