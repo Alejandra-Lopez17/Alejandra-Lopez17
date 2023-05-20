@@ -14,7 +14,7 @@ class Bio(Ingenieriadesoftware):
     def __init__(self):
         self.name = "Alejandra Lopez"
         self.country = "Colombia"
-        self.title2 = "Bachelor's degree in Computer Software Engineering"
+        self.title2 = "Bachelor's degree, Computer Software Engineering"
         self.title1 = "Technologist in Coordination of Music Schools"
 
 bio_obj = Bio()
