@@ -22,7 +22,6 @@ print(bio_obj.name)
 print(bio_obj.country)
 print(bio_obj.title1)
 print(bio_obj.title2)
-
 ```
 
 
