@@ -11,7 +11,7 @@ class SoftwareEngineering:
     pass
 
 class Biography(SoftwareEngineering):
-    def __init__(self, name, title1, title2):
+    def __init__(self, name, title):
         self.__name = name
         self.__title1 = title1
         self.__title2 = title2
