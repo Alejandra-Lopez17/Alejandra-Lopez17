@@ -21,8 +21,7 @@ class Biography(SoftwareEngineering):
 
 bio_obj = Biography(
     name="Alejandra Lopez",
-    title1="Bachelor in Software Engineering",
-    title2="Technologist in Coordination of Music Schools",
+    title="Bachelor in Software Engineering",
 )
 print(bio_obj)
 ```
