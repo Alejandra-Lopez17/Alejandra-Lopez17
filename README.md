@@ -13,11 +13,10 @@ class SoftwareEngineering:
 class Biography(SoftwareEngineering):
     def __init__(self, name, title):
         self.__name = name
-        self.__title1 = title1
-        self.__title2 = title2
+        self.__title = title
 
-    def __str__(self):
-        return f"Name: {self.__name}\nTitle 1: {self.__title1}\nTitle 2: {self.__title2}"
+   def __str__(self):
+        return f"Name: {self.__name}\nTitle: {self.__title}"
 
 bio_obj = Biography(
     name="Alejandra Lopez",
