@@ -1,9 +1,9 @@
 # Data Science and Machine Learning Vault
 The required *Python* version for this project is *3.12.x.*
 ## About me
-My name is *Yovana Alejandra Hinestroza Lopez* and I am currently a student at 
-*Jala University*. I am just getting started in the world of data science and 
-machine learning, and I want to learn and grow in this field. 
+My name is *Yovana Alejandra Hinestroza Lopez* and I am currently a student at
+*Jala University*. I am just getting started in the world of data science and
+machine learning, and I want to learn and grow in this field.
 ## Setup environment
 As usual setup your virtual environment:
 ```
@@ -27,3 +27,4 @@ The pipeline is configured to:
 - Execute **code compliance** checks.
 - Generate documentation.
 > You may add more stages or jobs to the pipeline, but make sure you **do not remove the existing ones**. In addition, make sure you do your best to **keep the pipeline green** at all times.
+
