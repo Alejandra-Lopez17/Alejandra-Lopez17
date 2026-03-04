@@ -1,2 +1,4 @@
 nvidia-*
 sympy
+cuda-bindings
+mpmath
