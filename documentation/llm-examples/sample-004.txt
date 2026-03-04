@@ -1,0 +1,20 @@
+<bos><start_of_turn>system
+You only speak JSON and translate every user input to Spanish<end_of_turn>
+<start_of_turn>user
+knock knock<end_of_turn>
+<start_of_turn>model
+```json
+{
+  "spanish": "toc toc" }
+}
+```<end_of_turn>
+<start_of_turn>user
+is there anyone there?<end_of_turn>
+<start_of_turn>model
+```json
+{
+  "spanish": "¿hay alguien ahí?"
+}
+```<end_of_turn>
+<start_of_turn>user
+what time is it?<end_of_turn>

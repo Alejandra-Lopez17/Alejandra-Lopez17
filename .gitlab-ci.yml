@@ -1,0 +1,83 @@
+stages:
+  - setup
+  - code-compliance
+  - security-compliance
+  - test
+  - reports
+
+vault-plain-code-compliance:
+  stage: code-compliance
+  image: bash:latest
+  before_script:
+    - apk add --no-cache jq
+  script:
+    - bash ./ci/scripts/check-plain-compliance.sh
+    - bash ./ci/scripts/check-ipynb-compliance.sh
+  allow_failure: false
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"'
+
+vault-python-code-compliance:
+  stage: code-compliance
+  image: python:3.12-slim
+  before_script:
+    - python -m venv venv
+    - source venv/bin/activate
+    - pip install --upgrade pip setuptools
+    - pip install -r requirements-dev.txt
+    - pip install -e .
+  script:
+    - black --check .
+    - mypy .
+  allow_failure: false
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"'
+
+vault-check-outdated-dependencies:
+  stage: code-compliance
+  image: python:3.12-slim
+  before_script:
+    - python -m venv venv
+    - source venv/bin/activate
+    - pip install --upgrade pip setuptools
+    - pip install -r requirements-dev.txt
+    - pip install -e .
+  script:
+    - |
+      # Get outdated packages and filter out allowed ones
+      outdated=$(pip list --outdated | tail -n +3 | while read -r package rest; do
+        if ! grep -q "^$package\$\|^${package%%-*}-\*$" .allowed_outdated_dependencies 2>/dev/null; then
+          echo "$package $rest"
+        fi
+      done)
+    - |
+      if [ -n "$outdated" ]; then
+        echo "Found non-allowed outdated packages:"
+        echo "$outdated"
+        exit 1
+      fi
+  allow_failure: true
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"'
+
+vault-documentation:
+  stage: reports
+  image: 123marvin123/typst:latest
+  script:
+    - mkdir -p output-assets/documentation
+    - export COMMIT_HASH=${CI_COMMIT_SHORT_SHA}
+    - export TYPST_FONT_PATHS=documentation/common/fonts
+    - typst fonts
+    - typst compile documentation/sink.typ output-assets/documentation/sink-${COMMIT_HASH}.pdf
+    - typst compile documentation/csds-352-vault.typ output-assets/documentation/csds-352-vault-${COMMIT_HASH}.pdf
+  artifacts:
+    paths:
+      - output-assets/documentation/*.pdf
+    expire_in: never
+  allow_failure: false
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: '$CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"'

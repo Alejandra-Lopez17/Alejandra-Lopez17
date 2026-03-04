@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools >= 69.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csds-352-vault"
+version = "0.0.1"
+description = "Data Science and Machine Learning Vault"
+authors = [{name = "Jala R&D", email = "RD_GenerativeAI@jalasoft.com"}]
+license = {file = "LICENSE"}
+requires-python = ">=3.12"
+
+dependencies = [
+  "ipykernel==6.29.5",
+  "ipympl==0.9.7",
+  "matplotlib==3.10.1",
+  "numpy==2.2.4",
+  "pandas==2.2.3",
+  "rich==13.9.4",
+  "scikit-learn==1.6.1",
+  "torch==2.6.0",
+  "torchvision==0.21.0",
+  "seaborn==0.13.2"
+]
+
+[project.scripts]
+csds-352-vault = "app.main:main"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true

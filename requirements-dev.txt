@@ -1,0 +1,5 @@
+black[jupyter]==25.1.0
+mypy==1.15.0
+pipdeptree==2.26.0
+pytest==8.3.5
+types-seaborn==0.13.2.20250111

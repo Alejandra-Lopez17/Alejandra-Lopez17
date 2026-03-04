@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="900px" viewBox="0 0 1600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SlideLayoutTwoVarOne</title>
+    <defs>
+        <linearGradient x1="50.0075949%" y1="100.052033%" x2="50.0075949%" y2="0.00921409214%" id="linearGradient-1">
+            <stop stop-color="#0053FF" offset="0%"></stop>
+            <stop stop-color="#0057FF" offset="23.22%"></stop>
+            <stop stop-color="#0062FF" offset="45.61%"></stop>
+            <stop stop-color="#0076FF" offset="67.69%"></stop>
+            <stop stop-color="#0091FF" offset="89.43%"></stop>
+            <stop stop-color="#00A1FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0041379%" y1="99.9254885%" x2="50.0041379%" y2="0.0261101243%" id="linearGradient-2">
+            <stop stop-color="#0053FF" offset="0%"></stop>
+            <stop stop-color="#0057FF" offset="23.22%"></stop>
+            <stop stop-color="#0062FF" offset="45.61%"></stop>
+            <stop stop-color="#0076FF" offset="67.69%"></stop>
+            <stop stop-color="#0091FF" offset="89.43%"></stop>
+            <stop stop-color="#00A1FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="-1.27935856e-14%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#0044BC" offset="0%"></stop>
+            <stop stop-color="#0F1721" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Layouts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SlideLayoutTwoVarOne">
+            <rect id="Rectangle" x="0" y="0" width="1600" height="900"></rect>
+            <g id="jala-university-iso" transform="translate(1419, 32)" fill-rule="nonzero">
+                <path d="M59.8126582,0 C57.7658228,0 56.0911392,1.70731707 56.0911392,3.79403794 L56.0911392,44.5799458 C56.0911392,53.1165312 51.3772152,58.2384824 43.4379747,58.2384824 C35.5607595,58.2384824 30.8468354,53.1165312 30.8468354,44.5799458 L30.8468354,38.762421 C30.8468354,36.6757001 29.1721519,34.968383 27.1253165,34.968383 L19,34.968383 L19,44.3902439 C19,59.6928636 28.8620253,70 43.4379747,70 C58.1379747,70 68,59.6928636 68,44.3902439 L68,0 L59.8126582,0 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M74.1103448,18 L74.1103448,42.6181172 C74.1103448,62.1207815 63,74.2060391 45.062069,74.2060391 C27.062069,74.2060391 15.8896552,62.1207815 15.8896552,42.6181172 L15.8896552,18.1918295 L3.47586207,18.1918295 C1.55172414,18.1918295 0,19.7904085 0,21.7726465 L0,42.3623446 C0,70.8809947 18.1241379,90 45.062069,90 C71.937931,90 90,70.8809947 90,42.3623446 L90,21.6447602 C90,19.6625222 88.4482759,18.0639432 86.5241379,18.0639432 L74.1103448,18.0639432 L74.1103448,18 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="533" height="900"></rect>
+        </g>
+    </g>
+</svg>
