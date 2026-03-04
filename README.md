@@ -3,7 +3,7 @@ The required *Python* version for this project is *3.12.x.*
 ## About me
 My name is *Yovana Alejandra Hinestroza Lopez* and I am currently a student at 
 *Jala University*. I am just getting started in the world of data science and 
-machine learning, and I want to learn and grow in this field.
+machine learning, and I want to learn and grow in this field. 
 ## Setup environment
 As usual setup your virtual environment:
 ```
