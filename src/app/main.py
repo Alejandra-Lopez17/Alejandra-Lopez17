@@ -1,8 +1,7 @@
 from textwrap import dedent
 from lib.console_manager import console_manager
 
-hello_world = dedent(
-    """
+hello_world = dedent("""
     # Machine Learning Vault
     
     Welcome to your **machine learning** vault! This is a simple example to implement the
@@ -40,8 +39,7 @@ hello_world = dedent(
     All .typ, .txt, and .sh files are compliant!
 
     ```
-    """
-)
+    """)
 
 
 def main() -> None:
