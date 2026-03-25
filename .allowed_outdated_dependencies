@@ -2,3 +2,5 @@ nvidia-*
 sympy
 cuda-bindings
 mpmath
+cuda-toolkit
+setuptools
