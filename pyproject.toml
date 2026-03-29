@@ -9,7 +9,6 @@ description = "Data Science and Machine Learning Vault"
 authors = [{name = "Jala R&D", email = "RD_GenerativeAI@jalasoft.com"}]
 license = {file = "LICENSE"}
 requires-python = ">=3.12"
-
 dependencies = [
   "ipykernel==7.2.0",
   "ipympl==0.10.0",
@@ -29,3 +28,7 @@ csds-352-vault = "app.main:main"
 [tool.mypy]
 python_version = "3.12"
 strict = true
+
+[tool.black]
+target-version = ["py312"]
+line-length = 88
