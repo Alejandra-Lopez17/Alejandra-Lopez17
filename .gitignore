@@ -223,3 +223,4 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,python
 notebooks/data/chest_xray/
+notebooks/data/chest_xray/
