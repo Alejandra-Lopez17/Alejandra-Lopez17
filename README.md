@@ -51,6 +51,12 @@ When importing your `monorepo` for the first time, please make sure you keep the
 
 # Capstone Project - Technical Documents Explorer
 
+## Domain
+
+**Technical Documentation Management**
+
+This project focuses on building an intelligent system for managing and organizing technical documentation (API guides, tutorials, reference manuals) using machine learning techniques.
+
 ## What does this project do?
 
 This project implements an intelligent system for managing and exploring technical documentation using machine learning. It can:
@@ -61,6 +67,44 @@ This project implements an intelligent system for managing and exploring technic
 4. **Detect anomalies** - Find unusual or irrelevant documents
 5. **Classify quality** - Evaluate document quality automatically
 6. **Search semantically** - Find documents by meaning, not just keywords
+
+## Data Acquisition
+
+The project uses open-source technical documentation:
+- **Source:** Python official documentation, ML tutorials, API guides
+- **License:** Open access / MIT License
+- **Format:** PDF, Markdown, RST, TXT
+- **Location:** `data/documents/`
+
+## Preprocessing Pipeline
+
+1. **File Loading** - Read PDF, Markdown, RST, TXT files
+2. **Text Extraction** - Extract content from each document
+3. **Embedding Generation** - Convert text to vectors using Sentence Transformers
+4. **Vector Storage** - Store embeddings in ChromaDB
+
+## Architecture
+
+```
+src/
+├── domain/               # Business logic
+│   ├── entities/         # Document, Embedding entities
+│   ├── repositories/    # Data access interfaces
+│   └── services/        # Core services
+│       ├── embedding_service.py       # Sentence Transformers
+│       ├── anomaly_detection.py      # Isolation Forest, LOF
+│       ├── clustering.py             # K-Means, DBSCAN, TSNE
+│       ├── quality_classifier.py     # Random Forest
+│       └── text_processing.py
+├── infrastructure/       # External implementations
+│   ├── file_handlers/   # PDF, Markdown, RST, TXT handlers
+│   └── persistence/    # ChromaDB implementation
+├── interfaces/          # User interfaces
+│   ├── cli/             # Command-line interface
+│   └── web/             # Streamlit and FastAPI apps
+├── api/                 # REST API
+└── application/         # Use cases
+```
 
 ## How to run it
 
@@ -78,3 +122,12 @@ streamlit run run_streamlit.py
 ```bash
 uvicorn src.interfaces.web.fastapi_app:app --reload
 ```
+
+## Technologies Used
+
+- **Python 3.12**
+- **Sentence Transformers** - Local embedding model (all-mpnet-base-v2)
+- **ChromaDB** - Vector database
+- **scikit-learn** - ML algorithms (Isolation Forest, Random Forest, K-Means, TSNE)
+- **Streamlit** - Web UI
+- **FastAPI** - REST API
