@@ -1,0 +1,13 @@
+Version 2.1.0 - 2023-11-15
+NEW:
+
+Added JWT authentication
+
+Implemented rate limiting
+
+FIXED:
+
+Security vulnerability in auth module
+
+API response formatting
+
