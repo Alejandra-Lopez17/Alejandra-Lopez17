@@ -44,7 +44,7 @@
         - High turnover due to poor docs
       ]
     )
-    
+
     #v(16pt)
     #box(
       fill: luma(100, 25%),
@@ -93,13 +93,13 @@
       [
         #strong[Step 1: Upload]
         Drop your documents
-        
+
         #strong[Step 2: AI Processing]
         System auto-embeds and indexes
-        
+
         #strong[Step 3: Search]
         Type any question for semantic matches
-        
+
         #strong[Step 4: Monitor]
         View clusters, anomalies, quality
       ],
@@ -127,7 +127,7 @@
     - Filter by type, source, quality
     - Real-time anomaly highlighting
     - Export charts for reports
-    
+
     #v(24pt)
     #strong[Try it now:]
     streamlit run src/interfaces/web/streamlit_app.py
@@ -158,7 +158,7 @@
         #text(size: 14pt, [average search response])
       ],
     )
-    
+
     #v(24pt)
     #strong[ROI: 6 months payback period]
   ],
@@ -178,7 +178,7 @@
         - Role-based access control
         - Audit logging
         - SOC2 compliant
-        
+
         #strong[Scalability:]
         - Handles 100K+ documents
         - Distributed vector search
@@ -191,7 +191,7 @@
         - CLI for automation
         - Web UI included
         - FastAPI backend
-        
+
         #strong[Support:]
         - 24/7 enterprise support
         - Training included
@@ -215,7 +215,7 @@
         - Code example lookup
         - Architecture decisions
         - Troubleshooting guides
-        
+
         #strong[Product Teams:]
         - Feature specifications
         - Release notes
@@ -228,7 +228,7 @@
         - Issue resolution guides
         - Customer FAQ matching
         - Escalation workflows
-        
+
         #strong[Training:]
         - New hire documentation
         - Best practices library
@@ -253,7 +253,7 @@
         - Context-aware results
         - Quality scoring
         - Auto-categorization
-        
+
         #strong[vs. Enterprise Search:]
         - Lower cost
         - Faster implementation
@@ -267,7 +267,7 @@
         - Visual cluster exploration
         - Multi-format support
         - Open source foundations
-        
+
         #strong[Better than:]
         - Algolia: plus semantic
         - Elasticsearch: simpler
@@ -312,7 +312,7 @@
             - Unlimited users
             - Priority support
             - 99.9% SLA
-            
+
             #v(8pt)
             #text(size: 16pt, [Most Popular])
           ])
@@ -330,7 +330,7 @@
             - On-premise option
             - Dedicated support
             - Custom integrations
-            
+
             #v(8pt)
             #text(size: 14pt, [Contact Sales])
           ]
@@ -352,14 +352,14 @@
     Day 3: Team training (1 hour)
     Day 4: Production deployment
     Day 30: Full ROI realized
-    
+
     #v(24pt)
     #strong[Whats Included:]
     - Free 14-day trial
     - Free onboarding call
     - Documentation and videos
     - Community Slack access
-    
+
     #v(16pt)
     #text(size: 18pt, [Start free trial: documind.ai])
   ],
@@ -376,14 +376,14 @@
     - Zero manual maintenance
     - Enterprise security
     - 24/7 support
-    
+
     #v(24pt)
     #strong[Proven Results:]
     - 50+ enterprise customers
     - Millions of documents indexed
     - 99.99% uptime
     - 4.9/5 customer rating
-    
+
     #v(24pt)
     #strong[Ready to transform your documentation?]
   ],
@@ -406,10 +406,10 @@
         [
           #strong[Contact:]
           Yovana Alejandra Hinestroza
-          
+
           #strong[Email:]
           alejandra hinestroza
-          
+
           #strong[Demo:]
           Request a personalized demo
         ],
@@ -417,3 +417,4 @@
     )
   ],
 )
+

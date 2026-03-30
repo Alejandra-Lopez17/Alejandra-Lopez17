@@ -77,3 +77,4 @@ Pre-trained transformers can be fine-tuned for specific tasks:
 ## Conclusion
 
 Transformers have enabled unprecedented advances in NLP and are now expanding to computer vision, audio processing, and multimodal AI.
+

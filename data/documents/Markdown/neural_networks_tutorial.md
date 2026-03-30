@@ -40,7 +40,7 @@ class SimpleNN(nn.Module):
         super().__init__()
         self.fc1 = nn.Linear(784, 128)
         self.fc2 = nn.Linear(128, 10)
-    
+
     def forward(self, x):
         x = torch.relu(self.fc1(x))
         x = self.fc2(x)
@@ -50,3 +50,4 @@ class SimpleNN(nn.Module):
 ## Conclusion
 
 Neural networks are fundamental to modern machine learning and deep learning applications.
+
