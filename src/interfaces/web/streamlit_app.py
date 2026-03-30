@@ -40,7 +40,6 @@ from infrastructure.file_handlers import (
 )
 from domain.entities import TechnicalDocument, DocumentType
 
-
 # Page configuration
 st.set_page_config(
     page_title="Technical Documents Explorer",
@@ -350,15 +349,13 @@ class DocumentExplorerApp:
         st.header("Quality Analysis")
 
         st.info("📝 The quality classifier requires labeled training data.")
-        st.markdown(
-            """
+        st.markdown("""
         To train the quality model, you need:
         1. A set of manually labeled documents
         2. Labels: `high`, `medium`, `low`
         
         Use the training function provided below.
-        """
-        )
+        """)
 
         # Sección de entrenamiento
         with st.expander("🎓 Train Quality Model"):
