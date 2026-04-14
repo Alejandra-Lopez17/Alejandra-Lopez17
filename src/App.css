@@ -568,6 +568,7 @@ body {
 }
 
 .contact-form .input-box input,
+.contact-form .contact-phone,
 .contact-form textarea {
   width: 100%;
   padding: 1.5rem;
